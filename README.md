@@ -1,2 +1,2 @@
-# dont donwmload
+# dont install
 private
